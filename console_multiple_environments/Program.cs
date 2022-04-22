@@ -12,3 +12,4 @@ var configRoot = builder.Build();
 
 var author = configRoot.GetSection(nameof(Author)).Get<Author>();
 Console.WriteLine(author.Description);
+

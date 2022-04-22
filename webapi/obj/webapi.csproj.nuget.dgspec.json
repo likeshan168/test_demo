@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\sfqd\\study\\demo\\test_demo\\console_multiple_environments\\console_multiple_environments.csproj": {}
+    "E:\\sfqd\\study\\demo\\test_demo\\webapi\\webapi.csproj": {}
   },
   "projects": {
-    "E:\\sfqd\\study\\demo\\test_demo\\console_multiple_environments\\console_multiple_environments.csproj": {
+    "E:\\sfqd\\study\\demo\\test_demo\\webapi\\webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\sfqd\\study\\demo\\test_demo\\console_multiple_environments\\console_multiple_environments.csproj",
-        "projectName": "console_multiple_environments",
-        "projectPath": "E:\\sfqd\\study\\demo\\test_demo\\console_multiple_environments\\console_multiple_environments.csproj",
+        "projectUniqueName": "E:\\sfqd\\study\\demo\\test_demo\\webapi\\webapi.csproj",
+        "projectName": "webapi",
+        "projectPath": "E:\\sfqd\\study\\demo\\test_demo\\webapi\\webapi.csproj",
         "packagesPath": "C:\\Users\\hiand\\.nuget\\packages\\",
-        "outputPath": "E:\\sfqd\\study\\demo\\test_demo\\console_multiple_environments\\obj\\",
+        "outputPath": "E:\\sfqd\\study\\demo\\test_demo\\webapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hiand\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -41,21 +41,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.Extensions.Configuration": {
+            "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.0.1, )"
-            },
-            "Microsoft.Extensions.Configuration.Binder": {
-              "target": "Package",
-              "version": "[6.0.0, )"
-            },
-            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
-              "target": "Package",
-              "version": "[6.0.1, )"
-            },
-            "Microsoft.Extensions.Configuration.Json": {
-              "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[6.2.3, )"
             }
           },
           "imports": [
@@ -69,6 +57,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

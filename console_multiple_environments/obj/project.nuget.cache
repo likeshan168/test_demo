@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7Zh2yzG6/O1u4aRCQ3OhoRzVVU7gFnJHXiOGO07dXl0IeUvkVS5LrPcZXLNnrH7E08860D9MDdBWt6/JnDcf1A==",
+  "dgSpecHash": "qkbR388oX9KXH7zm0EewQeNobTdMk0N9sRHWHsXmUm2vBZkOsMcj2s+qjJY+2cYCgmmZGnwYYClbtApiZxv/vA==",
   "success": true,
-  "projectFilePath": "E:\\sfqd\\study\\demo\\console_multiple_environments\\console_multiple_environments.csproj",
+  "projectFilePath": "E:\\sfqd\\study\\demo\\test_demo\\console_multiple_environments\\console_multiple_environments.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hiand\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
     "C:\\Users\\hiand\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

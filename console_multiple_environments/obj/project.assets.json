@@ -526,11 +526,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\sfqd\\study\\demo\\console_multiple_environments\\console_multiple_environments.csproj",
+      "projectUniqueName": "E:\\sfqd\\study\\demo\\test_demo\\console_multiple_environments\\console_multiple_environments.csproj",
       "projectName": "console_multiple_environments",
-      "projectPath": "E:\\sfqd\\study\\demo\\console_multiple_environments\\console_multiple_environments.csproj",
+      "projectPath": "E:\\sfqd\\study\\demo\\test_demo\\console_multiple_environments\\console_multiple_environments.csproj",
       "packagesPath": "C:\\Users\\hiand\\.nuget\\packages\\",
-      "outputPath": "E:\\sfqd\\study\\demo\\console_multiple_environments\\obj\\",
+      "outputPath": "E:\\sfqd\\study\\demo\\test_demo\\console_multiple_environments\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hiand\\AppData\\Roaming\\NuGet\\NuGet.Config",
