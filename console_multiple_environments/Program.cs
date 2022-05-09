@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using Demo;
+using console_multiple_environments;
 using Microsoft.Extensions.Configuration;
 
 var environment = Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT");

@@ -1,4 +1,4 @@
-namespace Demo
+namespace console_multiple_environments
 {
     internal class Author
     {
