@@ -1,0 +1,1 @@
+﻿xcopy "pipe_child_demo.exe" "../../../../pipe_demo/bin/Debug/net6.0" /s /e /y
